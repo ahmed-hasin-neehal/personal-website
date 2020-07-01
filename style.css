@@ -24,7 +24,7 @@ h1 span{
     padding-left: 2%;
 }
 .half-width img{
-    width: 80%;
+    width: 120%;
 }
 .anchor-button{
     text-decoration: none;
@@ -87,6 +87,7 @@ footer{
 .mailing{
     width: 50%;
     margin: auto;
+    text-align: center;
 }
 
 #bottom-button{
