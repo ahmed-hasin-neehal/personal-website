@@ -54,6 +54,10 @@ p{
     float: left;
     position: relative;
 }
+.works:hover{
+    width: 40%;
+    height: 40%;
+}
 .works img{
     width: 100%;
     padding: 10%;
@@ -88,6 +92,10 @@ footer{
     width: 50%;
     margin: auto;
     text-align: center;
+}
+.mailing:hover{
+    height: 100%;
+    width: 52%;
 }
 
 #bottom-button{
